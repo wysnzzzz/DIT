@@ -44,11 +44,11 @@ python test.py --eval-weights ./logs/dit/1/weights/seg_best.pth
 
 If this repository is helpful for your research, or you want to refer the provided results in your paper, you can cite the corresponding paper:
 ```
-@article{luo2022what,
-  title={What Goes beyond Multi-modal Fusion in One-stage Referring Expression Comprehension: An Empirical Study},
-  author={Luo, Gen and Zhou, Yiyi and Sun, Jiamu and Huang, Shubin and Sun, Xiaoshuai and Ye, Qixiang and Wu, Yongjian and Ji, Rongrong},
-  journal={arXiv preprint arXiv:2204.07913},
-  year={2022}
+@article{huang2024dit,
+  title={Deep Instruction Tuning for Segment Anything Model},
+  author={Huang, Xiaorui and Luo, Gen and Zhu, Chaoyang and Tong, Bo and Zhou, Yiyi and Sun, Xiaoshuai and Ji, Rongrong},
+  journal={arXiv preprint arXiv:2404.00650},
+  year={2024}
 }
 ```
 
