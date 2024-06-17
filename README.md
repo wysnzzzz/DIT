@@ -6,7 +6,7 @@
 <p align="center">
 	<img src="./DIT.png" width="550">
 </p>
-This is the official implementation of "[Deep Instruction Tuning for Segment Anything Model](https://arxiv.org/pdf/2404.00650.pdf)", which propose two simple yet effective deep instruction tuning (DIT) methods for text-guided SAM.
+This is the official implementation of "[Deep Instruction Tuning for Segment Anything Model]", which propose two simple yet effective deep instruction tuning (DIT) methods for text-guided SAM.
 
 
 
