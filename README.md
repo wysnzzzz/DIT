@@ -12,8 +12,6 @@ This is the official implementation of "[Deep Instruction Tuning for Segment Any
 
 
 
-## Updates
-- (2024/3/30) Release our DIT project.
 ## Installation
 ```
 pip install -r requirements.txt
