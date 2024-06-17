@@ -39,18 +39,6 @@ python test.py --eval-weights ./logs/dit/1/weights/seg_best.pth
 4. Training log.  Logs are stored in ``./logs`` directory, which records the detailed training curve and accuracy per epoch. If you want to log the visualizations, please  set  ``LOG_IMAGE`` to ``True`` in ``config.yaml``.   
 
 
-## Citation
-
-If this repository is helpful for your research, or you want to refer the provided results in your paper, you can cite the corresponding paper:
-```
-@article{huang2024dit,
-  title={Deep Instruction Tuning for Segment Anything Model},
-  author={Huang, Xiaorui and Luo, Gen and Zhu, Chaoyang and Tong, Bo and Zhou, Yiyi and Sun, Xiaoshuai and Ji, Rongrong},
-  journal={arXiv preprint arXiv:2404.00650},
-  year={2024}
-}
-```
-
 ## Acknowledgement
 
  Thanks a lot for the nicely organized code from the following repos
