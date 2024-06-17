@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/)
 ![PyTorch](https://img.shields.io/badge/pytorch-%237732a8)
-![MAC-Group](https://img.shields.io/badge/mac-group-orange.svg)](https://mac.xmu.edu.cn/)
 
 <p align="center">
 	<img src="./DIT.png" width="550">
