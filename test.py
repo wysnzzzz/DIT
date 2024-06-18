@@ -210,25 +210,6 @@ def main_worker(gpu,__C):
         train_set.pretrained_emb,
         train_set.token_size
     )
-    '''for name,p in net.named_parameters():
-        p.requires_grad = True'''
-    for name,p in net.named_parameters():
-        if name.startswith('visual_encoder.sas'):
-            pass
-        elif name.startswith('visual_encoder.prob'):
-            pass
-        elif name.startswith('visual_encoder.cross'):
-            pass
-        elif name.startswith('visual_encoder.ln'):
-            pass
-        elif name.startswith('visual_encoder.adapter'):
-            pass
-        elif name.startswith('visual_encoder.gate'):
-            pass
-        elif name.startswith('visual_encoder.token'):
-            pass
-        elif name.startswith('visual_encoder'): 
-            p.requires_grad = False
             
     #optimizer
     std_optim = getattr(Optim, __C.OPT)
