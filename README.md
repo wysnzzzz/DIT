@@ -1,7 +1,7 @@
 # DIT
 
 [![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/)
-![PyTorch](https://img.shields.io/badge/pytorch-%237732a8)
+[![PyTorch](https://img.shields.io/badge/pytorch-%237732a8)
 
 <p align="center">
 	<img src="./DIT.png" width="550">
@@ -18,9 +18,7 @@ pip install -r requirements.txt
 wget https://github.com/explosion/spacy-models/releases/download/en_vectors_web_lg-2.1.0/en_vectors_web_lg-2.1.0.tar.gz -O en_vectors_web_lg-2.1.0.tar.gz
 pip install en_vectors_web_lg-2.1.0.tar.gz
 ```
-## Data preparation
 
--  Follow the instructions of  [DATA_PRE_README.md](https://github.com/luogen1996/SimREC/blob/main/DATA_PRE_README.md) to generate training data and testing data.
 
 ## Training and Evaluation 
 
