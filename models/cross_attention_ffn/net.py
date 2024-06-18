@@ -19,7 +19,7 @@ import math
 from models.language_encoder import language_encoder
 from models.visual_encoder import visual_encoder
 from layers.fusion_layer import MultiScaleFusion,SimpleFusion,GaranAttention
-from models.segment_anything.modeling.image_encoder_cross_attention import ImageEncoderViT
+from models.segment_anything.modeling.image_encoder_cross_attention_FFN import ImageEncoderViT
 from models.segment_anything.modeling.prompt_encoder import PromptEncoder
 from models.segment_anything.modeling.mask_decoder_v2 import MaskDecoder
 from models.segment_anything.modeling.transformer import TwoWayTransformer
