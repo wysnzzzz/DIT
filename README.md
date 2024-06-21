@@ -37,6 +37,5 @@ python test.py --eval-weights ./logs/dit/1/weights/seg_best.pth
 ## Acknowledgement
 
  Thanks a lot for the nicely organized code from the following repos
-- [OpenVQA](https://github.com/MILVLG/openvqa).
 - [Segment Anything](https:////github.com/facebookresearch/segment-anything/)
 
