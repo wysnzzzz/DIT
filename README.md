@@ -10,7 +10,7 @@ This is the official implementation of "Deep Instruction Tuning for Segment Anyt
 
 ## News
 
-- **2024.07.16: Our work has been accepted as Poster by ACM MM 2024.**
+- **2024.07.16: Our work has been accepted as poster by ACM MM 2024.**
 
 
 
