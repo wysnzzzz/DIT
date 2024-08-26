@@ -8,7 +8,9 @@
 </p>
 This is the official implementation of "Deep Instruction Tuning for Segment Anything Model", which propose two simple yet effective deep instruction tuning (DIT) methods for text-guided SAM.
 
+## News
 
+- **2024.07.16: Our work has been accepted as Poster by ACM MM 2024.**
 
 
 
@@ -33,6 +35,16 @@ python test.py --eval-weights ./logs/dit/1/weights/seg_best.pth
 ```
 4. Training log.  Logs are stored in ``./logs`` directory, which records the detailed training curve and accuracy per epoch. If you want to log the visualizations, please  set  ``LOG_IMAGE`` to ``True`` in ``config.yaml``.   
 
+## Citation
+
+```
+@article{huang2024deep,
+  title={Deep Instruction Tuning for Segment Anything Model},
+  author={Huang, Xiaorui and Luo, Gen and Zhu, Chaoyang and Tong, Bo and Zhou, Yiyi and Sun, Xiaoshuai and Ji, Rongrong},
+  journal={arXiv preprint arXiv:2404.00650},
+  year={2024}
+}
+```
 
 ## Acknowledgement
 
