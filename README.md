@@ -39,12 +39,11 @@ python test.py --eval-weights ./logs/dit/1/weights/seg_best.pth
 
 ```
 @inproceedings{
-huang2024deep,
-title={Deep Instruction Tuning for Segment Anything Model},
-author={Xiaorui Huang and Gen Luo and Chaoyang Zhu and Bo Tong and Yiyi Zhou and Xiaoshuai Sun and Rongrong Ji},
-booktitle={ACM Multimedia 2024},
-year={2024},
-url={https://openreview.net/forum?id=vKH5hlAQs9}
+	huang2024deep,
+	title={Deep Instruction Tuning for Segment Anything Model},
+	author={Xiaorui Huang and Gen Luo and Chaoyang Zhu and Bo Tong and Yiyi Zhou and Xiaoshuai Sun and Rongrong Ji},
+	booktitle={ACM Multimedia 2024},
+	year={2024}
 }
 ```
 
