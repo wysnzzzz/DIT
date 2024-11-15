@@ -45,7 +45,8 @@ Following the steps of Data preparation and Training, you can reproduce and get 
 | 76.2 | 77.85  | 73.53|
 
 
-2. RefCOCO+ [Download link](https://drive.google.com/file/d/1T3jYiR9BLDJxvThYulySrDv0S2qonq1Z/view?usp=sharing
+2. RefCOCO+ [Download link](https://drive.google.com/file/d/1T3jYiR9BLDJxvThYulySrDv0S2qonq1Z/view?usp=sharing)
+
 | val               | test A            | test B            |
 | - | - | -|
 | 65.94 | 69.78  | 58.89|
